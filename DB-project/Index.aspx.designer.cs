@@ -7,11 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DB_project
+namespace DBproject
 {
 
 
-    public partial class WebForm1
+    public partial class Index
     {
 
         /// <summary>

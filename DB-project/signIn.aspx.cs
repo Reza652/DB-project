@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace DB_project
+namespace DBproject
 {
     public partial class signIn : System.Web.UI.Page
     {
